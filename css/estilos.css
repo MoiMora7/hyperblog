@@ -1,17 +1,27 @@
 body
 {
-    color:deeppink
+    color:deeppink;
     text-align: center;
     font-family: "Arial";
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 00.5em);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
     padding: lem;
-
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+#container {
+    font-size: 20px;
 }
